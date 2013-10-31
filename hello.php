@@ -6,7 +6,9 @@
 <body> 
 <!-- hello.php --> 
 <?php
+
     echo "MOROOOOOOOOOOOOOOOOOOOOOO";
+
 
 ?> 	
 </body> 
